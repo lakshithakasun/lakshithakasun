@@ -1,5 +1,11 @@
 ### Hi there, I'm Lakshitha aka-lakshithakasun 👋 
 
+- 🔭 I’m currently working with WSO2 IAM Customer Sucess
+- 🌱 I’m currently learning IAM concepts associated with WSO2 Identity Server 
+- 📫 How to reach me: 
+Email : lakshithas@wso2.com
+
+
 <!--
 **lakshithakasun/lakshithakasun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
